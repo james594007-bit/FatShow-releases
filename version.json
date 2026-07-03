@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "message": "建議更新到最新版以獲得最佳體驗。",
+  "version": "1.0.4",
+  "message": "錄影收尾更穩(大檔不再誤判失敗)、剪接播放雜音修掉、錄影控制列可拖移、剪接按鈕一點就生效。",
   "download": "https://fathub.tw/fatshow/"
 }
